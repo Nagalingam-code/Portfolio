@@ -1,0 +1,77 @@
+header{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    margin: 5px;
+    margin-bottom: 40px;
+  }
+  a{
+      padding-left: 20px;
+  }
+  #ai a:hover{
+    color: #bda2e7;
+    font-size: 22px;
+  }
+  #Name{
+      color: #bda2e7;
+      font-size: 32px;
+    font-weight: bold;
+    padding-right: 500px;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+  }
+  #ai a{
+      color: #fefefe;
+      text-decoration: none;
+      font-size: 20px;
+  }
+  h1{
+      font-size: 35px; 
+      margin-left: 40px;
+  }
+  h1,p,tbody,#com,#role,#exp{
+      color: #fefefe; 
+      font-family: 'Oswald', sans-serif;
+  }
+  thead{
+      font-size: 50px;
+      color: #bda2e7;
+      font-family: 'Oswald', sans-serif;
+  }
+  td{
+      padding-right: 20px;
+  }
+  table{
+      margin: 30px 200px;
+      width: 500px;
+  }
+  p,#com,#role{
+      margin: 2px 40px;    
+  }
+  #role{
+      margin-left: 43px;
+  }
+  body{
+      background-color: rgba(29,20,37,255);
+  }
+  #outline{
+      height: 1700px;
+      margin: 30px 60px;
+      background-image: radial-gradient(#443454,#272033,#241c2e,#221a2c,rgba(29,20,37,255));
+  }
+  main{
+      height: 1500px;
+      margin: 5px;
+  }
+  #exp{
+      display: grid;
+      grid-template-columns: auto auto;
+      gap: 20px;
+  }
+  #con1,#con2,#con3,#con4{
+     height: 350px;
+     margin: 5px 40px;
+  }
+
+  
+  
