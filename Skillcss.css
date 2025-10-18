@@ -35,7 +35,7 @@ header{
   }
   p{
     color: #bda2e7;
-    font-size: 25px;
+    font-size: 17px;
   }
   body{
       background-color: rgba(29,20,37,255);
@@ -53,21 +53,19 @@ header{
     margin: 5px 40px;
   }
   #con1{
-     height: 600px;
+     height: 400px;
      margin: 5px 40px;
   }
   #fs{
     display: grid;
-    grid-template-columns: auto auto auto auto;
-    gap: 10px;
+    grid-template-columns: auto auto auto auto auto;
+    gap: 5px;
   }
   img{
-    height: 150px;
-    width: 150px;
+    height: 70px;
+    width: 70px;
   }
-  figcaption{
-    text-align: center;
-  }
+
   h2{
     color: #bda2e7;
     font-size: 25px;
