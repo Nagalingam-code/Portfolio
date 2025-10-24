@@ -41,7 +41,7 @@ header{
       background-color: rgba(29,20,37,255);
   }
   #outline{
-      height: 2210px;
+      height: 2500px;
       margin: 30px 60px;
       background-image: radial-gradient(#443454,#272033,#241c2e,#221a2c,rgba(29,20,37,255));
   }
@@ -71,5 +71,10 @@ header{
     font-size: 25px;
     margin-left: 75px;
   }
-  
+  video {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
   
